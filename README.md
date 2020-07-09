@@ -7,6 +7,8 @@ I livecode regularly [on Twitch](https://twitch.tv/kristoff_it) and I'm the crea
 
 You can also find me on Twitter [@croloris](https://twitter.com/croloris).
 
-I'm currently sustaining myself through my work for the Zig Software Foundation, but I wouldn't mind one day to become fully independent and focus more on fun stuff, like Zig SHOWTIME. If you like what I do, consider becoming a GitHub Sponsor to [@ziglang](https://github.com/ziglang), and to me second. 
+I'm currently sustaining myself through my work for the Zig Software Foundation, but I wouldn't mind one day to become fully independent and focus more on fun stuff, like Zig SHOWTIME and other similar projects.
+
+If you like what I do, consider becoming a GitHub Sponsor to [@ziglang](https://github.com/ziglang) first, and to me second. 
 
 
