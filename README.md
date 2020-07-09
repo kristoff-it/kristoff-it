@@ -5,6 +5,8 @@ You can find opinionated articles on my [personal blog](https://kristoff.it), li
 
 I livecode regularly [on Twitch](https://twitch.tv/kristoff_it) and I'm the creator and host of [Zig SHOWTIME](https://zig.show)!
 
-I'm currently sustaining myself through my work for the Zig Software Foundation, but I wouldn't mind one day to become fully independent and focus more on fun stuff, like Zig SHOWTIME. If you like what I do, consider becoming a GitHub Sponsor to @ziglang, and to me second. 
+You can also find me on Twitter [@croloris](https://twitter.com/croloris).
+
+I'm currently sustaining myself through my work for the Zig Software Foundation, but I wouldn't mind one day to become fully independent and focus more on fun stuff, like Zig SHOWTIME. If you like what I do, consider becoming a GitHub Sponsor to [@ziglang](https://github.com/ziglang), and to me second. 
 
 
