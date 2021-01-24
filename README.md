@@ -1,6 +1,7 @@
 ### Hi, I'm Loris! 👋
 
-I'm a computer scientist living in Milan, Italy. I'm currently VP of Community at the [Zig Software Foundation](https://ziglang.org) and I'm the creator and host of [Zig SHOWTIME](https://zig.show)!
+I'm a computer scientist living in Milan, Italy.  
+I'm currently VP of Community at the [Zig Software Foundation](https://ziglang.org) and I'm the creator and host of [Zig SHOWTIME](https://zig.show)!
 
 You can find opinionated articles on my [personal blog](https://kristoff.it), like "[Why Go and not Rust?](https://kristoff.it/blog/why-go-and-not-rust/)", a fan favorite.
 
