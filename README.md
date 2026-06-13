@@ -3,7 +3,7 @@
 I'm VP of Community at the [Zig Software Foundation](https://ziglang.org).
 I help Zig grow a vibrant community & ecosystem.
 
-### Cool Software I Made
+### Cool software I maintain
 - [Zine](https://zine-ssg.io) static site generator written from scratch, faster than Hugo.
 - [SuperHTML](https://github.com/kristoff-it/superhtml) the first language server for HTML that implements the whole HTML spec!
 - [Awebo](https://github.com/kristoff-it/awebo) a self-hostable Discord alternative written from scratch (currently pre-alpha).
