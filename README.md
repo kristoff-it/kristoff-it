@@ -18,6 +18,9 @@ I help Zig grow a vibrant community & ecosystem.
 - I curate [Software You Can Love](https://softwareyoucan.love), conferences that celebrate the art of creating software for humans.
 - I coordinate various [Zig Days](https://zig.day) across the globe.
 
+### Discord
+[Join my Discord server](https://discord.gg/B73sGxF) if you want to chat about Zig and any of the above!
+
 ### Social Media
 I'm not very active on those, I mainly push notifications about posts.
 
