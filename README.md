@@ -1,7 +1,6 @@
 ## Hi, I'm Loris! 👋
 
-### Occupation
-VP of Community at the [Zig Software Foundation](https://ziglang.org).
+I'm VP of Community at the [Zig Software Foundation](https://ziglang.org).
 I help Zig grow a vibrant community & ecosystem.
 
 ### Cool Software I Made
@@ -19,7 +18,7 @@ I help Zig grow a vibrant community & ecosystem.
 - I coordinate various [Zig Days](https://zig.day) across the globe.
 
 ### Discord
-[Join my Discord server](https://discord.gg/B73sGxF) if you want to chat about Zig and any of the above!
+[Join my Discord server](https://discord.gg/B73sGxF) if you want to chat about Zig or any of the above!
 
 ### Social Media
 I'm not very active on those, I mainly push notifications about posts.
